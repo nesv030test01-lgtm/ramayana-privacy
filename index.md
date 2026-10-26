@@ -8,7 +8,7 @@ title: Privacy Policy – Ramayana Adventure
 **Developer: RAI CA DAI DUONG
 **Contact: nesv030test01@gmail.com
 
-This Privacy Policy explains how the mobile game **Ramayana Adventure** ("the Game"), developed by [YOUR NAME OR STUDIO NAME] ("we", "us"), handles information when you play it.
+This Privacy Policy explains how the mobile game **Ramayana Adventure** ("the Game"), developed by RAI CA DAI DUONG TEAM, handles information when you play it.
 
 ## 1. Information we collect
 The Game does **not** require an account and we do **not** ask for your name, email address, phone number, contacts, photos or location.
@@ -46,7 +46,7 @@ The Game is not directed at children under 13 and we do not knowingly collect pe
 We may update this Privacy Policy from time to time. Changes will be posted on this page with a new effective date.
 
 ## 9. Contact us
-If you have any questions about this Privacy Policy, please contact: **[YOUR EMAIL]**
+If you have any questions about this Privacy Policy, please contact: nesv030test01@gmail.com
 
 ---
 
@@ -80,4 +80,4 @@ Game không hướng tới trẻ em dưới 13 tuổi và chúng tôi không c�
 Mọi thay đổi sẽ được cập nhật trên trang này kèm ngày hiệu lực mới.
 
 ## 8. Liên hệ
-Mọi câu hỏi về chính sách này, vui lòng gửi về: **[EMAIL CỦA BẠN]**
+Mọi câu hỏi về chính sách này, vui lòng gửi về: nesv030test01@gmail.com
